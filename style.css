@@ -1,0 +1,238 @@
+*{
+    background-color: black;
+}
+
+
+.grid3{ display: grid;
+    grid-template-rows: 30px 30px 30px;
+    grid-template-columns: 30px 30px 30px ;
+    justify-content: center;
+    
+
+}
+
+.box-31{
+    border: 3px solid black;
+    background-color: green;
+    cursor: pointer;
+   }
+
+
+.box-32{
+    border: 3px solid black;
+    background-color: white;
+    cursor: pointer;
+   }
+
+
+.box-33{
+    border: 3px solid black;
+    background-color: green;
+    cursor: pointer;
+   }
+
+
+.box-34{
+    border: 3px solid black;
+    background-color: green;
+    cursor: pointer;
+   }
+
+
+.box-35{
+    border: 3px solid black;
+    background-color: orange;
+    cursor: pointer;
+   }
+
+
+.box-36{
+    border: 3px solid black;
+    background-color: navy;
+    cursor: pointer;
+   }
+
+
+.box-37{
+    border: 3px solid black;
+    background-color: orange;
+    cursor: pointer;
+   }
+
+
+.box-38{
+    border: 3px solid black;
+    background-color: navy;
+    cursor: pointer;
+   }
+
+
+.box-39{
+    border: 3px solid black;
+    background-color: orange;
+    cursor: pointer;
+   }
+
+.grid5{
+    display: grid;
+    grid-template-rows: 50px 50px 50px 50px 50px;
+    grid-template-columns: 50px 50px 50px 50px 50px;
+    justify-content: center;
+    padding-top: 100px;
+
+    
+}   
+
+.box-51{
+    border: 1px solid black;
+    background-color: green;
+    cursor: pointer;
+}
+
+.box-52{
+    border: 1px solid black;
+    background-color: white;
+    cursor: pointer;
+}
+
+.box-53{
+    border: 1px solid black;
+    background-color: yellow;
+    cursor: pointer;
+}
+
+.box-55{
+    border: 1px solid black;
+    background-color: white;
+    cursor: pointer;
+}
+
+.box-56{
+    border: 1px solid black;
+    background-color: red;
+    cursor: pointer;
+}
+
+.box-57{
+    border: 1px solid black;
+    background-color: green;
+    border: 3px solid black;
+    cursor: pointer;
+}
+
+.box-58{
+    border: 1px solid black;
+    background-color: white;
+    border: 3px solid black;
+    cursor: pointer;
+}
+
+.box-59{
+    border: 1px solid black;
+    background-color: green;
+    border: 3px solid black;
+    cursor: pointer;
+}
+
+.box-510{
+    border: 1px solid black;
+    background-color: red;
+    cursor: pointer;
+}
+
+.box-511{
+    border: 1px solid black;
+    background-color: navy;
+    cursor: pointer;
+}
+
+.box-512{
+    border: 1px solid black;
+    background-color: green;
+    border: 3px solid black;
+    cursor: pointer;
+}
+
+.box-513{
+    border: 1px solid black;
+    background-color: orange;
+    border: 3px solid black;
+    cursor: pointer;
+}
+
+.box-514{
+    border: 1px solid black;
+    background-color: yellow;
+    border: 3px solid black;
+    cursor: pointer;
+}
+
+.box-515{
+    border: 1px solid black;
+    background-color: red;
+    cursor: pointer;
+    
+}
+
+.box-516{
+    border: 1px solid black;
+    background-color: orange;
+    cursor: pointer;
+}
+
+.box-517{
+    border: 1px solid black;
+    background-color: yellow;
+    border: 3px solid black;
+    cursor: pointer;
+}
+
+.box-518{
+    border: 1px solid black;
+    background-color: red;
+    border: 3px solid black;
+    cursor: pointer;
+}
+
+.box-519{
+    border: 1px solid black;
+    background-color: orange;
+    border: 3px solid black;
+    cursor: pointer;
+}
+
+.box-520{
+    border: 1px solid black;
+    background-color: navy;
+    cursor: pointer;
+}
+
+.box-521{
+    border: 1px solid black;
+    background-color: yellow;
+    cursor: pointer;
+}
+
+.box-522{
+    border: 1px solid black;
+    background-color: white;
+    cursor: pointer;
+}
+
+.box-523{
+    border: 1px solid black;
+    background-color: navy;
+    cursor: pointer;
+}
+.box-524{
+    border: 1px solid black;
+    background-color: navy;
+    cursor: pointer;
+}
+
+.box-525{
+    border: 1px solid black;
+    background-color: orange;
+    cursor: pointer;
+}
+
